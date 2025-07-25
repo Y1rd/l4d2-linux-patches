@@ -9,3 +9,6 @@ Various patches to fix multiple issues with the Linux native build of Left 4 Dea
  - Ideal launch options (Vulkan)
  - Crashing in some campaigns
  - Some other random console error
+
+# Install
+WIP
