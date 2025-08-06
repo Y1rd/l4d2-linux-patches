@@ -21,7 +21,7 @@ Various patches to fix multiple issues with the Linux native build of Left 4 Dea
 1. Click the code button, then click download ZIP.
 2. Extract the zip with any program.
 3. Go to steam, right click Left 4 Dead 2 in the game list: Manage > Browse Local Files.
-4. Copy the contents within the `l4d2-linux-patches-main` folder (excluding the README.md and LICENSE) to the main `left4dead2` folder.
+4. Copy the contents within the `l4d2-linux-patches-main` folder (excluding the README.md and LICENSE) to the main `Left 4 Dead 2` folder.
 5. Navigate to `Left 4 Dead 2/left4dead2/cfg/config.cfg`, search for `m_rawinput` and set it to 0.
 6. Navigate to `Left 4 Dead 2/bin` and delete all files titled `harfbuzzX.so`.
 7. Make sure `lib32-harfbuzz` is installed on your system. Look up `harfbuzz 32 bit DISTRO NAME` to find the relevant package.
