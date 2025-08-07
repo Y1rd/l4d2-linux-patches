@@ -29,5 +29,16 @@ Various patches to fix multiple issues with the Linux native build of Left 4 Dea
 9. Navigate to Options > Keyboard/Mouse > Raw Mouse Input > Disabled
 10. If so, success! Make sure to set `Options > Audio > Speaker Configuration > Headphones` each time you launch the game.
 
+# Additional Guides
+
+### Importing your spray
+
+> [!NOTE]
+> You can use [VTF Spray Converter](https://rafradek.github.io/Mishcatt/) to make a spray to use in-game.
+
+1. WIP
+
 # Credits
 RF (Recycle_Bin) - [Fire Bullet Fix](https://www.gamemaps.com/details/30880) on GameMaps
+[gabusan](https://steamcommunity.com/id/proprocrastinator) - Background shuffle command
+[Rusty Pancakes](https://steamcommunity.com/id/RustyPancakes) - Spray import fix
